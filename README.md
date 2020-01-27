@@ -47,5 +47,8 @@ Application should allow users to delete previously saved notes.
 
 
 ## Deployed Link
+ https://krislg420.github.io/NoteTaker/
+
 
 ## Git REPO
+https://github.com/krislg420/NoteTaker
