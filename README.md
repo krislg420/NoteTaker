@@ -62,3 +62,7 @@ https://github.com/krislg420/NoteTaker
 
 
 ![346C689B-B377-423D-9F0A-02C4265FCB68_1_105_c](https://user-images.githubusercontent.com/57952065/73227606-a414f680-4139-11ea-80a0-3ea5437ca202.jpeg)
+
+## GIF
+
+https://media.giphy.com/media/iem9vlZHIywn1rBvTV/giphy.gif
